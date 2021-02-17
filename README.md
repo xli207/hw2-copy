@@ -12,3 +12,4 @@
 - In your terminal, cd to homework2 and type "pytest". It should run all the tests for this assignment and you should be able to see the output.
 
 - If you are a student registered to this class, you can commit your changes and push your code to your private Github repository. Travis-CI will run the tests you ran in your local in the cloud.
+[![build status of master](https://travis-ci.org/Uthergogogo/GitHubApi567.svg?branch=master)](https://travis-ci.org/xli207/hw2-copy)
